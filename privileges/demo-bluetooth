@@ -1,0 +1,2 @@
+# Tells invoker to run demo-privileges as nemo: privileged
+/usr/bin/demo-privileges
