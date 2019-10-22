@@ -15,7 +15,7 @@ Page {
         anchors.fill: parent
         PageHeader {
             id: header
-            title: qsTr("Bluetooth messenger server")
+            title: qsTr("Bluetooth demo")
         }
         Column {
             anchors.top: header.bottom

@@ -41,7 +41,7 @@ Page {
         model: 20
         anchors.fill: parent
         header: PageHeader {
-            title: qsTr("Nested Page")
+            title: qsTr("Bluetooth demo")
         }
         delegate: BackgroundItem {
             id: delegate

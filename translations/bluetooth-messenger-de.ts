@@ -5,7 +5,7 @@
     <name>ClientPage</name>
     <message>
         <location filename="../qml/pages/ClientPage.qml" line="16"/>
-        <source>Bluetooth messenger client</source>
+        <source>Bluetooth demo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -57,7 +57,7 @@ in system settings before playing with application</source>
     <name>SecondPage</name>
     <message>
         <location filename="../qml/pages/SecondPage.qml" line="44"/>
-        <source>Nested Page</source>
+        <source>Bluetooth demo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -75,7 +75,7 @@ in system settings before playing with application</source>
     </message>
     <message>
         <location filename="../qml/pages/ServerPage.qml" line="18"/>
-        <source>Bluetooth messenger server</source>
+        <source>Bluetooth demo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
